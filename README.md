@@ -1,10 +1,11 @@
 # target-sistemas-teste
 
-Observe o trecho de código abaixo:
-int INDICE = 13, SOMA = 0, K = 0;
-Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
-Imprimir(SOMA);
-Ao final do processamento, qual será o valor da variável SOMA?
+Observe o trecho de código abaixo: <br/>
+int INDICE = 13, SOMA = 0, K = 0; <br/>
+Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } <br/>
+Imprimir(SOMA); <br/> 
+Ao final do processamento, qual será o valor da variável SOMA? <br/>
+<br/>
 <br/>
 Resposta: Ao final do processamento, a resposta será 78. Minha linha de raciocínio foi: O código primeiro verifica a condição K < INDICE e caso seja TRUE, o código é executado, portanto:
 1° iteração: K = 1; SOMA = 0 + 1 = 1 <br/>
