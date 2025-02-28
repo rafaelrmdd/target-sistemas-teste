@@ -7,7 +7,7 @@ Imprimir(SOMA); <br/>
 Ao final do processamento, qual será o valor da variável SOMA? <br/>
 <br/>
 <br/>
-Resposta: Ao final do processamento, a resposta será 78. Minha linha de raciocínio foi: O código primeiro verifica a condição K < INDICE e caso seja TRUE, o código é executado, portanto:
+Resposta: Ao final do processamento, a resposta será 78. Minha linha de raciocínio foi: O código primeiro verifica a condição K < INDICE e caso seja TRUE, o código é executado, portanto: <br/>
 1° iteração: K = 1; SOMA = 0 + 1 = 1 <br/>
 2° iteração: K = 2; SOMA = 1 + 2 = 3 <br/>
 3° iteração: K = 3; SOMA = 3 + 3 = 6 <br/> 
